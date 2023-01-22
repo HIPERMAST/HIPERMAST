@@ -1,5 +1,9 @@
+![MasterHead](https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif)
+
 <h1 align="center">Hi 👋, I'm Daniel Andrés Bernal Cáceres</h1>
 <h3 align="center">A computer and systems engineering student</h3>
+
+<img align="right" alt="Coding" width="300" height="350" src="https://i.gifer.com/origin/6f/6fb6e28d846d7808cc482a3e2ced3077_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hipermast&label=Profile%20views&color=0e75b6&style=flat" alt="hipermast" /> </p>
 
