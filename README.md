@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif](https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif)
 <h1 align="center">Hi 👋, I'm Daniel Andrés Bernal Cáceres</h1>
 <h3 align="center">A computer and systems engineering student</h3>
 (img align="right" alt="Coding" width="400" src="[https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif](https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif)")
