@@ -1,11 +1,9 @@
-[![https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif](https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif)
+
 <h1 align="center">Hi 👋, I'm Daniel Andrés Bernal Cáceres</h1>
 <h3 align="center">A computer and systems engineering student</h3>
-(img align="right" alt="Coding" width="400" src="[https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif](https://i.pinimg.com/originals/45/d0/79/45d0790c293e5dba3077f4ad0c4826c6.gif)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hipermast&label=Profile%20views&color=0e75b6&style=flat" alt="hipermast" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hipermast" alt="hipermast" /></a> </p>
 
 - 🔭 I’m currently working on [Vamo' app](https://github.com/Vamo-App)
 
